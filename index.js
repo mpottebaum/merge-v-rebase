@@ -9,3 +9,5 @@ console.log('Commit F - Second Branch')
 console.log('Commit A - First Branch')
 console.log('Commit B - First Branch')
 console.log('Commit C - First Branch')
+
+console.log('Commit J - First Branch')
