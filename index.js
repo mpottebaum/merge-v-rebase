@@ -1,5 +1,8 @@
 console.log('Hello, World!')
 
+console.log('Commit G - Third Branch')
+console.log('Commit H - Third Branch')
+console.log('Commit I - Third Branch')
 console.log('Commit D - Second Branch')
 console.log('Commit E - Second Branch')
 console.log('Commit F - Second Branch')
